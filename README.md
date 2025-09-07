@@ -3,7 +3,7 @@
 This project is a front-end clone of the award-winning website, **[Zentry.com](https://zentry.com)**. It was built to showcase advanced front-end development skills, including component-based architecture with React, utility-first styling with Tailwind CSS, and complex, high-performance animations using the GSAP library.
 
 ## ✨ View Live Demo
-[🔗 **Live Demo**](https://your-demo-link-here.com) <!-- Replace with your actual demo link -->
+[🔗 **Live-Shrikar-Gaming-Showcase**](https://shrikar-gaming-showcase.vercel.app/) <!-- Replace with your actual demo link -->
 
 ## 📸 Screenshots
 
