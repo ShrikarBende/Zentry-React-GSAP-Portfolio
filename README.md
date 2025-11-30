@@ -133,7 +133,7 @@ The code in this repository is licensed under the **MIT License**. See the `LICE
 For any questions or collaborations, feel free to reach out:
 
 - **GitHub:** [@ShrikarBende](https://github.com/ShrikarBende)
-- **Email:** [](shrikarbende@gmail.com) 
+- **Email:** [shrikarbende@gmail.com](shrikarbende@gmail.com) 
 - **Linkedin:** [@Shrikar Bende](https://www.linkedin.com/in/shrikar-bende)
 
 ⭐ **If you found this project helpful, please give it a star!**
